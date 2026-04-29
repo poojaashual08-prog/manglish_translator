@@ -1,0 +1,101 @@
+id,manglish,malayalam,english
+1,ente peru anu,എന്റെ പേര് അനു,my name is anu
+2,ente per anu,എന്റെ പേര് അനു,my name is anu
+3,njan veettil pokunnu,ഞാൻ വീട്ടിൽ പോകുന്നു,i am going home
+4,njan veetilekku pokunnu,ഞാൻ വീട്ടിലേക്ക് പോകുന്നു,i am going to home
+5,nee evide pokunnu,നീ എവിടെ പോകുന്നു,where are you going
+6,nee evide pokunne,നീ എവിടെ പോകുന്നു,where are you going
+7,avan evide aanu,അവൻ എവിടെ ആണ്,where is he
+8,aval evide aanu,അവൾ എവിടെ ആണ്,where is she
+9,ninakku sugham alle,നിനക്ക് സുഖം അല്ലേ,are you fine
+10,ninakku sughamano,നിനക്ക് സുഖമാണോ,are you fine
+11,njangal kazhichu,ഞങ്ങൾ കഴിച്ചു,we ate
+12,njan kazhichu,ഞാൻ കഴിച്ചു,i ate
+13,njan kazhichilla,ഞാൻ കഴിച്ചില്ല,i did not eat
+14,nee kazhicho,നീ കഴിച്ചോ,did you eat
+15,aval padikkunnu,അവൾ പഠിക്കുന്നു,she is studying
+16,avan padikkunnu,അവൻ പഠിക്കുന്നു,he is studying
+17,njan padikkukayanu,ഞാൻ പഠിക്കുകയാണ്,i am studying
+18,nee padikkunnundo,നീ പഠിക്കുന്നുണ്ടോ,are you studying
+19,njan varam,ഞാൻ വരാം,i will come
+20,njan varatte,ഞാൻ വരട്ടെ,let me come
+21,nee varumo,നീ വരുമോ,will you come
+22,avan vannu,അവൻ വന്നു,he came
+23,aval vannu,അവൾ വന്നു,she came
+24,ente amma vannu,എന്റെ അമ്മ വന്നു,my mother came
+25,ente achan vannu,എന്റെ അച്ഛൻ വന്നു,my father came
+26,avan kalikkunnu,അവൻ കളിക്കുന്നു,he is playing
+27,aval kalikkunnu,അവൾ കളിക്കുന്നു,she is playing
+28,njan kalikkunnu,ഞാൻ കളിക്കുന്നു,i am playing
+29,namukku pokam,നമുക്ക് പോകാം,let us go
+30,namukku kazhikam,നമുക്ക് കഴിക്കാം,let us eat
+31,njan urangunnu,ഞാൻ ഉറങ്ങുന്നു,i am sleeping
+32,nee urangunnundo,നീ ഉറങ്ങുന്നുണ്ടോ,are you sleeping
+33,avan urangunnu,അവൻ ഉറങ്ങുന്നു,he is sleeping
+34,ente veedu ivide aanu,എന്റെ വീട് ഇവിടെ ആണ്,my house is here
+35,ente veedu ivide undu,എന്റെ വീട് ഇവിടെ ഉണ്ട്,my house is here
+36,aval veettil undu,അവൾ വീട്ടിൽ ഉണ്ട്,she is at home
+37,avan veettil undu,അവൻ വീട്ടിൽ ഉണ്ട്,he is at home
+38,njan veettil aanu,ഞാൻ വീട്ടിൽ ആണ്,i am at home
+39,nee veettil aanu,നീ വീട്ടിൽ ആണ്,you are at home
+40,ente suhruth vannu,എന്റെ സുഹൃത്ത് വന്നു,my friend came
+41,ente suhruth evide aanu,എന്റെ സുഹൃത്ത് എവിടെ ആണ്,where is my friend
+42,njan pani cheyyunnu,ഞാൻ ജോലി ചെയ്യുന്നു,i am working
+43,avan pani cheyyunnu,അവൻ ജോലി ചെയ്യുന്നു,he is working
+44,aval pani cheyyunnu,അവൾ ജോലി ചെയ്യുന്നു,she is working
+45,nee pani cheyyunnundo,നീ ജോലി ചെയ്യുന്നുണ്ടോ,are you working
+46,njan schoolil pokunnu,ഞാൻ സ്കൂളിൽ പോകുന്നു,i am going to school
+47,nee schoolil pokunnundo,നീ സ്കൂളിൽ പോകുന്നുണ്ടോ,are you going to school
+48,avan schoolil poyi,അവൻ സ്കൂളിൽ പോയി,he went to school
+49,aval schoolil poyi,അവൾ സ്കൂളിൽ പോയി,she went to school
+50,njan busil pokunnu,ഞാൻ ബസ്സിൽ പോകുന്നു,i am going by bus
+51,njan caril pokunnu,ഞാൻ കാറിൽ പോകുന്നു,i am going by car
+52,nee evide ninnu varunnu,നീ എവിടെ നിന്ന് വരുന്നു,where are you coming from
+53,avan evide ninnu vannu,അവൻ എവിടെ നിന്ന് വന്നു,where did he come from
+54,aval evide ninnu vannu,അവൾ എവിടെ നിന്ന് വന്നു,where did she come from
+55,njan evide ninnu vannu,ഞാൻ എവിടെ നിന്ന് വന്നു,where did i come from
+56,nee entha cheyyunnu,നീ എന്ത് ചെയ്യുന്നു,what are you doing
+57,njan entha cheyyunnu,ഞാൻ എന്ത് ചെയ്യുന്നു,what am i doing
+58,avan entha cheyyunnu,അവൻ എന്ത് ചെയ്യുന്നു,what is he doing
+59,aval entha cheyyunnu,അവൾ എന്ത് ചെയ്യുന്നു,what is she doing
+60,njan cinema kanunnu,ഞാൻ സിനിമ കാണുന്നു,i am watching a movie
+61,nee cinema kanunnundo,നീ സിനിമ കാണുന്നുണ്ടോ,are you watching a movie
+62,avan cinema kandu,അവൻ സിനിമ കണ്ടു,he watched a movie
+63,aval cinema kandu,അവൾ സിനിമ കണ്ടു,she watched a movie
+64,njan pusthakam vayikkunnu,ഞാൻ പുസ്തകം വായിക്കുന്നു,i am reading a book
+65,nee pusthakam vayikkunnundo,നീ പുസ്തകം വായിക്കുന്നുണ്ടോ,are you reading a book
+66,avan pusthakam vayichu,അവൻ പുസ്തകം വായിച്ചു,he read a book
+67,aval pusthakam vayichu,അവൾ പുസ്തകം വായിച്ചു,she read a book
+68,njan vellam kudikkunnu,ഞാൻ വെള്ളം കുടിക്കുന്നു,i am drinking water
+69,nee vellam kudicho,നീ വെള്ളം കുടിച്ചോ,did you drink water
+70,avan vellam kudichu,അവൻ വെള്ളം കുടിച്ചു,he drank water
+71,aval vellam kudichu,അവൾ വെള്ളം കുടിച്ചു,she drank water
+72,njan tea kudikkunnu,ഞാൻ ചായ കുടിക്കുന്നു,i am drinking tea
+73,nee tea kudikkunnundo,നീ ചായ കുടിക്കുന്നുണ്ടോ,are you drinking tea
+74,avan tea kudichu,അവൻ ചായ കുടിച്ചു,he drank tea
+75,aval tea kudichu,അവൾ ചായ കുടിച്ചു,she drank tea
+76,njan coffee kudikkunnu,ഞാൻ കാപ്പി കുടിക്കുന്നു,i am drinking coffee
+77,nee coffee kudikkunnundo,നീ കാപ്പി കുടിക്കുന്നുണ്ടോ,are you drinking coffee
+78,avan coffee kudichu,അവൻ കാപ്പി കുടിച്ചു,he drank coffee
+79,aval coffee kudichu,അവൾ കാപ്പി കുടിച്ചു,she drank coffee
+80,njan kazhikkunnu,ഞാൻ കഴിക്കുന്നു,i am eating
+81,nee kazhikkunnundo,നീ കഴിക്കുന്നുണ്ടോ,are you eating
+82,avan kazhikkunnu,അവൻ കഴിക്കുന്നു,he is eating
+83,aval kazhikkunnu,അവൾ കഴിക്കുന്നു,she is eating
+84,njan kazhichu kazhinju,ഞാൻ കഴിച്ചു കഴിഞ്ഞു,i finished eating
+85,nee kazhichu kazhinjo,നീ കഴിച്ചു കഴിഞ്ഞോ,did you finish eating
+86,avan kazhichu kazhinju,അവൻ കഴിച്ചു കഴിഞ്ഞു,he finished eating
+87,aval kazhichu kazhinju,അവൾ കഴിച്ചു കഴിഞ്ഞു,she finished eating
+88,njan varunnu,ഞാൻ വരുന്നു,i am coming
+89,nee varunnundo,നീ വരുന്നതുണ്ടോ,are you coming
+90,avan varunnu,അവൻ വരുന്നു,he is coming
+91,aval varunnu,അവൾ വരുന്നു,she is coming
+92,njan poyi,ഞാൻ പോയി,i went
+93,nee poyo,നീ പോയോ,did you go
+94,avan poyi,അവൻ പോയി,he went
+95,aval poyi,അവൾ പോയി,she went
+96,njan thirichu varum,ഞാൻ തിരിച്ചു വരും,i will return
+97,nee thirichu varumo,നീ തിരിച്ചു വരുമോ,will you return
+98,avan thirichu vannu,അവൻ തിരിച്ചു വന്നു,he returned
+99,aval thirichu vannu,അവൾ തിരിച്ചു വന്നു,she returned
+100,namukku thudangam,നമുക്ക് തുടങ്ങാം,let us start
